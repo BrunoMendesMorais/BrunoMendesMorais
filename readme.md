@@ -23,6 +23,6 @@
 <br>
 <br>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomendesmorais&" alt="brunomendesmorais" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomendesdemorais&" alt="brunomendesmorais" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunomendesmorais&show_icons=true&locale=en" alt="brunomendesmorais" /></p>
 
