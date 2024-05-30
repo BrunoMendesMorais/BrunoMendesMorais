@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">desenvolvedor do Brazil</h3>
 
 <p align="left">
 </p>
