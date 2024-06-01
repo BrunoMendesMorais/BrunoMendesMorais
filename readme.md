@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">⁠O conhecimento salva 📖</h1>
+<h1 align="center">"Conhece-te a ti mesmo e conhecerás o universo e os deuses"(socrates) 📖</h1>
 
 ###
 
