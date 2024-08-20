@@ -22,7 +22,7 @@
  <br/>
  
 <p align="center">
-<a href="linkedin.com/in/bruno-mendes-de-morais-062aa3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno mendes de morais" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-mendes-de-morais-062aa3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno mendes de morais" height="30" width="40" /></a>
 </p>
 <br/>
 
