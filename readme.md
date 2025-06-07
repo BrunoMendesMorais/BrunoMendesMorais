@@ -16,7 +16,7 @@
 </div>
  <br/>
 
-<h1 align="center">Bem vindo aos meu perfil do git hub</h1>
+<h1 align="center">Bem vindo ao meu perfil do git hub</h1>
 
 
  <br/>
