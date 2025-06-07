@@ -30,9 +30,8 @@
 
 
 <h3 align="left">💻 Sobre mim</h3>
-<p>Cursando Desenvolvimento de sistemas na Etec sales gomes</p>
-<p>Terminando ensino médio</p>
-<p>Focado no termino dos estudos</p>
+<p>Técnico em desenvolvimento de sistemas</p>
+<p>Cursando analize e desenvolvimento de sistemas no IFSP</p>
 
 <br/>
 <br/>
