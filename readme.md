@@ -1,12 +1,14 @@
-<h1 align="center">SEJA BEM VINDO AO MEU PERFIL DO GIT-HUB</h1>
-<br/>
+<img src="giphy.webp" width="30%" align="right">
+<h1 align="center" width="200px">SEJA BEM VINDO AO MEU PERFIL DO GIT-HUB</h1>
 
+<br/>
+<br/>
 <p>Sou um desenvolvedor Full-stack</p>
 <p>Formado em Desenvolvimento de sistemas - ETEC</p>
 <p>Cursando analize e desenvolvimento de sistemas - IFSP</p>
 
 <br/>
-
+<br/>
 
 
 <div align="center">
