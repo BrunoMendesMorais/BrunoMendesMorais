@@ -22,13 +22,7 @@
 </p>
 
 -----------------
-
- <img src="https://github-profile-trophy.vercel.app?username=BrunoMendesMorais&theme=nord&column=-1&row=1&margin-w=11&margin-h=8&no-bg=false&no-frame=false&order=4"  height="150" alt="trophy graph" /> <br>
- <img src="https://github-readme-stats.vercel.app/api?username=BrunoMendesMorais&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" width="48%" height="150" alt="stats graph" /> 
- <img src="https://streak-stats.demolab.com?user=BrunoMendesMorais&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" width="48%" alt="streak graph" /> <br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMendesMorais&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" width="100%" />
 <div align="center">
- <hr>
  <h3>Conhecimentos:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,7 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-<hr>
 <p align="center">
 
 
