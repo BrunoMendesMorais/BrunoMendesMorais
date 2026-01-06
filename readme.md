@@ -16,9 +16,6 @@
 <h4 align="center" >aqui tenho algumas outras redes caso queira da uma olhada nos projetos por outro angulo</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-mendes-de-morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunomendesmorais" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1AZtAYDS3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunomendesmorais" height="30" width="40" /></a>
-<a href="# target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunomendesmorais" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@devbrunomendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brunomendesmorais" height="30" width="40" /></a>
 </p>
 
 -----------------
@@ -32,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
