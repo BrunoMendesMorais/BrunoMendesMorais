@@ -6,7 +6,6 @@
 <p align="center">Aqui compartilho os códigos dos meus projetos pessoais e acadêmicos. Fique à vontade para explorar os repositórios, caso tenha ficado curioso!</p>
 <hr>
 
-- Sou um desenvolvedor Full-stack
 - Formado em Desenvolvimento de sistemas - ETEC
 - Cursando analize e desenvolvimento de sistemas - IFSP
 <br>
