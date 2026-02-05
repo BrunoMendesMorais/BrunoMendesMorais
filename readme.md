@@ -7,7 +7,7 @@
 <hr>
 
 - Formado em Desenvolvimento de sistemas - ETEC
-- Cursando analize e desenvolvimento de sistemas - IFSP
+- Cursando analise e desenvolvimento de sistemas - IFSP
 <br>
 
 -----------------
