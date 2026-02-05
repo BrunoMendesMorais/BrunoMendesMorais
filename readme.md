@@ -1,18 +1,18 @@
 <img src="giphy.webp" width="30%" align="right">
 
-<h3 align="center"> 👋 SEJA BEM VINDO AO MEU PERFIL DO GIT-HUB </h3>
+<h3 align="center"> 👋 SEJA BEM-VINDO AO MEU PERFIL DO GitHub </h3>
 <hr>
 
 <p align="center">Aqui compartilho os códigos dos meus projetos pessoais e acadêmicos. Fique à vontade para explorar os repositórios, caso tenha ficado curioso!</p>
 <hr>
 
-- Formado em Desenvolvimento de sistemas - ETEC
-- Cursando analise e desenvolvimento de sistemas - IFSP
+- Formado em Desenvolvimento de Sistemas – ETEC
+- Cursando Análise e Desenvolvimento de Sistemas – IFSP
 <br>
 
 -----------------
 
-<h4 align="center" >aqui tenho algumas outras redes caso queira da uma olhada nos projetos por outro angulo</h4>
+<h4 align="center">Aqui tenho algumas outras redes, caso queira dar uma olhada nos projetos por outro ângulo.o</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-mendes-de-morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunomendesmorais" height="30" width="40" /></a>
 </p>
