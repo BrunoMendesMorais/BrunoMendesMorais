@@ -12,7 +12,7 @@
 
 -----------------
 
-<h4 align="center">Aqui tenho algumas outras redes, caso queira dar uma olhada nos projetos por outro ângulo.o</h4>
+<h4 align="center">Aqui tenho algumas outras redes, caso queira dar uma olhada nos projetos por outro ângulo</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-mendes-de-morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunomendesmorais" height="30" width="40" /></a>
 </p>
